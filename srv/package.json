@@ -1,0 +1,11 @@
+{
+  "name": "srv",
+  "version": "1.0.0",
+  "description": "theScore Server",
+  "main": "index.js",
+  "author": "Rodrigo Lima <rodgarcialima@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
